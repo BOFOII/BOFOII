@@ -1,6 +1,6 @@
 ### IM RISKI RAHMAND
 
-I am 17 years old, studied programming languages <> for about 5 years on native [PHP](https://www.php.net/), 1 year on [Java](https://www.java.com/en/) and [Java Script](https://www.javascript.com/), and recently learned [Dart](https://dart.dev/) for work needs
+I am 18 years old, studied programming languages <> for about 5 years on native [PHP](https://www.php.net/), 1 year on [Java](https://www.java.com/en/) and [Java Script](https://www.javascript.com/), and recently learned [Dart](https://dart.dev/) for work needs
 
 - **GRADUATE**: Vocational high school 1 Simpangkatis, majoring in Software Engineering
 - **MAIN LAPTOP**: ASUS ROG STRIX G17 (at Mei 2023)
