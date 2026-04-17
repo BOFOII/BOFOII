@@ -1,10 +1,43 @@
-### IM RISKI RAHMAND
+# 👋 Halo, Saya Riski Rahmand
+### Fullstack Developer | Visual Thinker
 
-I am 18 years old, studied programming languages <> for about 5 years on native [PHP](https://www.php.net/), 1 year on [Java](https://www.java.com/en/) and [Java Script](https://www.javascript.com/), and recently learned [Dart](https://dart.dev/) for work needs
+Pemenang LKS tingkat provinsi yang berfokus pada pembangunan solusi perangkat lunak yang efisien. Saya memiliki pengalaman lebih dari 7 tahun dalam ekosistem PHP dan kini aktif mengembangkan aplikasi mobile serta integrasi AI.
 
-- **GRADUATE**: Vocational high school 1 Simpangkatis, majoring in Software Engineering
-- **MAIN LAPTOP**: ASUS ROG STRIX G17 (at Mei 2023)
-- **SECOND LAPTOP**: ASUS X453S, thanks for about 6 years, I used to learn programming here
-- **IDE**: I like using [VScode](https://code.visualstudio.com/) and [PHPStorm](https://www.jetbrains.com/phpstorm/) because they are easy to use and have integration with many extensions
-- **ACHIEVEMENT**: Has won the 🥇 first place in LKS WEB Technology in the province of Bangka Belitung Islands, and won 🥇 first place in LKS IT Software For Business in the province of Bangka Belitung Islands
-- **FRAMEWORK**: I use [Laravel](https://laravel.com/) to write website because its easy to use, sometimes i use [Vue JS](https://vuejs.org/), now i try to use [Flutter](https://flutter.dev/) as my main framework
+---
+
+## 🚀 Tentang Saya
+Saya adalah seorang pengembang yang **visual-driven**. Saya lebih mudah memproses konsep melalui visualisasi sebelum menuangkannya ke dalam baris kode. Dengan pengalaman sejak di SMK, saya telah membangun berbagai sistem mulai dari web native hingga solusi ERP.
+
+- 🎓 **Lulusan**: Rekayasa Perangkat Lunak, SMKN 1 Simpangkatis.
+- 🏆 **Pencapaian**: 
+    - 🥇 Juara 1 LKS Web Technology (Prov. Bangka Belitung).
+    - 🥇 Juara 1 LKS IT Software for Business (Prov. Bangka Belitung).
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+* **Web**: PHP (Native & Laravel), JavaScript, Vue JS, Next.js.
+* **Mobile**: Dart & Flutter (Current Focus).
+* **Backend & Others**: Go, Java, Odoo Framework.
+
+## 🛠️ Hardware & Workspace
+* 💻 **Main Machine**: **MacBook Pro M4** — Perangkat utama untuk development Flutter & Odoo.
+* 🎮 **Alternative**: **ASUS ROG STRIX G17** — Powerhouse untuk tugas berat dan multitasking.
+* 📜 **Legacy**: **ASUS X453S** — Saksi bisu 6 tahun perjalanan saya belajar programming dari nol.
+* 🖥️ **Editor**: **PHPStorm** (untuk PHP) & **VS Code** (untuk Bahasa Lainnya).
+
+## 💡 Fokus Saat Ini
+* **Odoo Development**: Mengembangkan sistem logistik dan ERP yang terintegrasi.
+* **ASP Chat Sensei**: Proyek ekstraksi data bisnis dari percakapan WhatsApp menggunakan AI.
+* **Mobile Apps**: Mendalami Flutter untuk solusi lintas platform.
+
+---
+
+## 📫 Hubungi Saya
+* **Email**: it.riski.rahmand@gmail.com
+* **Lokasi**: Pangkalpinang, Bangka Belitung.
+
+---
+*"I don't just write code; I visualize solutions."*
